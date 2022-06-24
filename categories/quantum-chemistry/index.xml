@@ -60,5 +60,14 @@
       <description>Links to a number of free software labs for Psi4 and WebMO, including learning the Hartree-Fock procedure, machine learning with quantum chemistry and scikit-learn, and determining structure from microwave spectroscopy.</description>
     </item>
     
+    <item>
+      <title>Psi4 Education 4</title>
+      <link>https://hvanleeuwen.github.io/icomse-V2/our-materials/quantum-chemistry-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hvanleeuwen.github.io/icomse-V2/our-materials/quantum-chemistry-4/</guid>
+      <description>Links to a number of free software labs for Psi4 and WebMO, including learning the Hartree-Fock procedure, machine learning with quantum chemistry and scikit-learn, and determining structure from microwave spectroscopy.</description>
+    </item>
+    
   </channel>
 </rss>
